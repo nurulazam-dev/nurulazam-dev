@@ -3,7 +3,7 @@
 ### Hi there 👋,
 ## I'm Mohammad Nurul Azam.
 #### Junior Web Developer
-I'm a Front End Developer who is passionate about making error-free websites with 100% cliend satisfaction.
+I'm a Junior Web Developer who is passionate about making error-free websites with 100% cliend satisfaction.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML5 <br> 
@@ -12,15 +12,14 @@ I'm a Front End Developer who is passionate about making error-free websites wit
 ✅ JavaScript <br>
 ✅ React <br> 
 ✅ Photoshop / Illustrator <br>
-
 - 🔭 I’m currently working on Fiverr & Youtube 
 - 🌱 I’m currently learning JavaScript 
 
-## ☕ Connect with me!
+### ☕ Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mnaofficialbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mnaofficialbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mnaofficialbd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mnaofficialbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mnaofficialbd.wordpress.com/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mnaofficialbd)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnaofficialbd)](https://github.com/anuraghazra/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/mnaofficialbd)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnaofficialbd)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-## 📧 For Business Inquiries: ✅ mna.official92@gmail.com
+#### 📧 For Business Inquiries: ✅ mna.official92@gmail.com
+![Profile views](https://gpvc.arturio.dev/mnaofficialbd)  
