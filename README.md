@@ -21,9 +21,6 @@ I'm a Front End Developer who is passionate about making error-free websites wit
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mnaofficialbd)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnaofficialbd)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mnaofficialbd&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mnaofficialbd)  
 ![Profile views](https://gpvc.arturio.dev/mnaofficialbd)  
 
-## 📧 For Business Inquiries 
-✅  ► mna.official92@gmail.com
+## 📧 For Business Inquiries: ✅ mna.official92@gmail.com
