@@ -1,4 +1,4 @@
-![Junior Web Developer](https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-6/274964087_3144101599180927_7728115077826173844_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGvSPvTXOV68WXRPzBhrQoFj0vhsVbDaRmPS-GxVsNpGdbN4HaBAe8iwcwDVJKlj-QehOMxEeDLnqcW3AQBR7Ln&_nc_ohc=bNR0qT4DuFUAX-yUDej&_nc_ht=scontent.fcgp6-1.fna&oh=00_AT8AocCVJc3QSMfQe8p7_FtqKc_9o8IrqFekUuqKSfiY-A&oe=622EA120)
+![Junior Web Developer](https://pbs.twimg.com/profile_banners/1151725144018051072/1647086096)
 
 ### Hi there 👋,
 ## I'm Mohammad Nurul Azam.
