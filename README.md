@@ -7,7 +7,11 @@ I'm a Junior Web Developer who is passionate about making error-free websites wi
 
 ## 👨‍💻 Skills & Experiance: 
 
-<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='html' height='130'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='' height='130'>
+<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='html' height='130'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='' height='130'> <img src='https://i.ibb.co/bNk65q4/Tailwind.png' alt='' height='130'> 
+
+<img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> 
+
+<img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'>
 
 ✅ HTML5 <br> 
 ✅ CSS3 <br>
