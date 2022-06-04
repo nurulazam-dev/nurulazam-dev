@@ -6,6 +6,10 @@
 I'm a Junior Web Developer who is passionate about making error-free websites with 100% cliend satisfaction.
 
 ## 👨‍💻 Skills & Experiance: 
+
+[<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='html' height='40'>]
+[<img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='' height='40'>]
+
 ✅ HTML5 <br> 
 ✅ CSS3 <br>
 ✅ Bootstrap / Tailwild <br>
