@@ -7,17 +7,21 @@ I'm a Junior Web Developer who is passionate about making error-free websites wi
 
 ## 👨‍💻 Skills & Experiance: 
 
-<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='html' height='130'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='' height='130'> <img src='https://i.ibb.co/bNk65q4/Tailwind.png' alt='' height='130'> 
+<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='html' height='130'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='bootstrap' height='130'> <img src='https://i.ibb.co/bNk65q4/Tailwind.png' alt='tailwind' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='javaScript' height='130'> <img src='https://i.ibb.co/r35WXpY/React.png' alt='react' height='130'> 
 
-<img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> 
-
-<img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='' height='130'>
+<img src='https://i.ibb.co/25kVJ89/Node-js.png' alt='node' height='130'> <img src='https://i.ibb.co/g7bXq1g/Mongo.png' alt='mongodb' height='130'> <img src='https://i.ibb.co/GcyBL8L/Express.png' alt='express' height='130'> <img src='https://i.ibb.co/gjW6BLK/Type-Script.png' alt='typeScript' height='130'> <img src='https://felgo.com/doc/images/logo-firebase.png' alt='firebase' height='130'>
 
 ✅ HTML5 <br> 
 ✅ CSS3 <br>
 ✅ Bootstrap / Tailwild <br>
 ✅ JavaScript <br>
 ✅ React <br> 
+✅ DaisyUI <br>
+✅ MongoDB <br>
+✅ Node.js <br>
+✅ Express <br>
+✅ Firebase <br>
+✅ TypeScript <br>
 ✅ Photoshop / Illustrator <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnaofficialbd)](https://github.com/anuraghazra/github-readme-stats)
