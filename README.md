@@ -7,9 +7,9 @@ I'm a Junior Web Developer who is passionate about making error-free websites wi
 
 ## 👨‍💻 Skills & Experiance: 
 
-<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='html' height='130'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='bootstrap' height='130'> <img src='https://i.ibb.co/bNk65q4/Tailwind.png' alt='tailwind' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='javaScript' height='130'> <img src='https://i.ibb.co/r35WXpY/React.png' alt='react' height='130'> 
+<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='Html' height='130'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='Bootstrap' height='130'> <img src='https://i.ibb.co/bNk65q4/Tailwind.png' alt='Tailwind' height='130'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='JavaScript' height='130'> <img src='https://i.ibb.co/r35WXpY/React.png' alt='React' height='130'> 
 
-<img src='https://i.ibb.co/25kVJ89/Node-js.png' alt='node' height='130'> <img src='https://i.ibb.co/g7bXq1g/Mongo.png' alt='mongodb' height='130'> <img src='https://i.ibb.co/GcyBL8L/Express.png' alt='express' height='130'> <img src='https://i.ibb.co/gjW6BLK/Type-Script.png' alt='typeScript' height='130'> <img src='https://felgo.com/doc/images/logo-firebase.png' alt='firebase' height='130'>
+<img src='https://i.ibb.co/25kVJ89/Node-js.png' alt='Node.js' height='130'> <img src='https://i.ibb.co/g7bXq1g/Mongo.png' alt='MongoDB' height='130'> <img src='https://i.ibb.co/GcyBL8L/Express.png' alt='Express' height='130'> <img src='https://i.ibb.co/gjW6BLK/Type-Script.png' alt='TypeScript' height='130'> <img src='https://felgo.com/doc/images/logo-firebase.png' alt='Firebase' height='100'>
 
 ✅ HTML5 <br> 
 ✅ CSS3 <br>
