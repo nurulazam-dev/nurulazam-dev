@@ -1,4 +1,4 @@
-![Junior Web Developer](https://pbs.twimg.com/profile_banners/1151725144018051072/1647086096)
+![Junior Web Developer](https://i.ibb.co/tHB4x41/linkedin-banner.jpg)
 
 ### Hi there 👋,
 ## I'm Mohammad Nurul Azam.
