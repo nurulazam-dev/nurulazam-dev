@@ -1,5 +1,5 @@
 ![Junior Web Developer](https://i.ibb.co/tHB4x41/linkedin-banner.jpg)
-<img src='https://i.ibb.co/tHB4x41/linkedin-banner.jpg' alt='Html' width='full'>
+<img src='https://i.ibb.co/tHB4x41/linkedin-banner.jpg' alt='Html' width='800'>
 ### Hi there 👋,
 ## I'm Mohammad Nurul Azam.
 #### Junior Web Developer
