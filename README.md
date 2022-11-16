@@ -1,9 +1,9 @@
-![Front End Developer](https://i.ibb.co/tHB4x41/linkedin-banner.jpg)
+![Front End Developer](https://i.ibb.co/rsHx690/linked-In-cover.jpg)
 
 ### Hi there 👋,
 # I'm Mohammad Nurul Azam.
-## Front End Developer
-I'm a Front End Developer who is passionate about making error-free websites with 100% cliend satisfaction.
+## MERN Stack Web Developer
+I'm a MERN Stack Web Developer who is passionate about making error-free websites with 100% cliend satisfaction.
 
 ## 👨‍💻 Skills & Experiance: 
 
@@ -17,6 +17,7 @@ I'm a Front End Developer who is passionate about making error-free websites wit
 ✅ JavaScript <br>
 ✅ React <br> 
 ✅ DaisyUI <br>
+✅ Redux <br>
 ✅ MongoDB <br>
 ✅ Node.js <br>
 ✅ Express <br>
