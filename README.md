@@ -1,4 +1,4 @@
-![Front End Developer](https://i.ibb.co/rsHx690/linked-In-cover.jpg)
+![Front End Developer](https://i.ibb.co/0YSSzb9/Linked-In-banner.png)
 
 ### Hi there 👋,
 # I'm Mohammad Nurul Azam.
