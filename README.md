@@ -9,15 +9,7 @@ As a MERN stack web developer, I specialize in building dynamic and responsive w
 
 <img src='https://i.ibb.co/CzCBpTH/Html.png' alt='Html' height='50'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='Bootstrap' height='50'> <img src='https://i.ibb.co/bNk65q4/Tailwind.png' alt='Tailwind' height='50'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='JavaScript' height='50'> <img src='https://i.ibb.co/r35WXpY/React.png' alt='React' height='50'> <img src='https://i.ibb.co/25kVJ89/Node-js.png' alt='Node.js' height='50'> <img src='https://i.ibb.co/g7bXq1g/Mongo.png' alt='MongoDB' height='50'> <img src='https://i.ibb.co/GcyBL8L/Express.png' alt='Express' height='50'> <img src='https://i.ibb.co/gjW6BLK/Type-Script.png' alt='TypeScript' height='50'> <img src='https://felgo.com/doc/images/logo-firebase.png' alt='Firebase' height='60'>
 
-✅ HTML5 {" "} ✅ CSS3 <br>
-✅ Bootstrap / Tailwild <br>
-✅ DaisyUI <br>
-✅ JavaScript <br>
-✅ ES6 <br>
-✅ React.js <br> 
-✅ Next JS <br> 
-✅ Redux <br>
-✅ MongoDB <br>
+✅ HTML5  ✅ CSS3  ✅ Bootstrap / Tailwild  ✅ DaisyUI  ✅ JavaScript  ✅ ES6  ✅ React.js  ✅ Next JS  ✅ Redux  ✅ MongoDB <br>
 ✅ Mongoose <br>
 ✅ Node.js <br>
 ✅ Express <br>
