@@ -60,12 +60,12 @@ As a MERN stack web developer, I specialize in building dynamic and responsive w
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=nurulazam-dev&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulazam-dev&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nurulazam-dev&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nurulazam-dev&theme=synthwave&hide_border=true)<br/>
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed:
 
-![](https://github-contributor-stats.vercel.app/api?username=nurulazam-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nurulazam-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulazam-dev&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
