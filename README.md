@@ -1,22 +1,80 @@
 ![Front End Developer](https://i.ibb.co/p1dd1dJ/Linked-In-banner.jpg)
 
 ### Hi there 👋,
+
 # I'm Mohammad Nurul Azam.
+
 ## Full Stack MERN Web Developer
-As a MERN stack web developer, I specialize in building dynamic and responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. With expertise in both front-end and back-end development, I craft efficient and user-friendly interfaces while ensuring seamless data flow and robust server-side functionality.
 
-## 👨‍💻 Skills & Experiance: 
+## 💫 About Me:
 
-<img src='https://i.ibb.co/CzCBpTH/Html.png' alt='Html' height='50'> <img src='https://i.ibb.co/nQWTQj0/Bootstrap.png' alt='Bootstrap' height='50'> <img src='https://i.ibb.co/bNk65q4/Tailwind.png' alt='Tailwind' height='50'> <img src='https://i.ibb.co/v1TJvsQ/java-Script.png' alt='JavaScript' height='50'> <img src='https://i.ibb.co/r35WXpY/React.png' alt='React' height='50'> <img src='https://i.ibb.co/25kVJ89/Node-js.png' alt='Node.js' height='50'> <img src='https://i.ibb.co/g7bXq1g/Mongo.png' alt='MongoDB' height='50'> <img src='https://i.ibb.co/GcyBL8L/Express.png' alt='Express' height='50'> <img src='https://i.ibb.co/gjW6BLK/Type-Script.png' alt='TypeScript' height='50'> <img src='https://felgo.com/doc/images/logo-firebase.png' alt='Firebase' height='60'>
+As a MERN stack web developer, I specialize in building dynamic and responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. With front-end and back-end development expertise, I craft efficient and user-friendly interfaces while ensuring seamless data flow and robust server-side functionality.
 
-✅ HTML5  ✅ CSS3  ✅ Bootstrap / Tailwild  ✅ DaisyUI  ✅ JavaScript  ✅ ES6  ✅ React.js  ✅ Next JS  ✅ Redux  ✅ MongoDB  ✅ Mongoose  ✅ Node.js  ✅ Express  ✅ Firebase 
-✅ TypeScript  ✅ Figma / Canva / Photoshop / Illustrator  ✅ Git  ✅ VS Code  ✅ Github  ✅ Netlify  ✅ Heroku  ✅ Render  ✅ Vercel  
+## 🌐 Socials:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulazam-dev)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=nurulazam-dev)](https://github.com/ryo-ma/github-profile-trophy)
-### ☕ Connect with me!
-[<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/nurulazam.dev)  [<img src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465' alt='instagram' height='40'>](https://www.instagram.com/nurulazam_dev/)  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/nurulazam_dev)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/nurulazam-dev)
-[<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/nurulazam-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurulazam-dev) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nurulazam_dev) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nururlazam.dev) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nurulazam_dev) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nurulazam_dev) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nurulazam_dev) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nurulazam-dev) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nurulazam_dev) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mnawebprogrammingbd)
 
-#### 📧 For Business Inquiries: ✅ nurulazam.dev@gmail.com
-![Profile views](https://gpvc.arturio.dev/nurulazam-dev)  
+## 💻 Tech Stack:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nurulazam-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=nurulazam-dev&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nurulazam-dev&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulazam-dev&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=nurulazam-dev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+### 📧 For Business Inquiries: ✅ nurulazam.dev@gmail.com
+
+<!-- ![Profile views](https://gpvc.arturio.dev/nurulazam-dev)   -->
+
+[![](https://visitcount.itsvg.in/api?id=nurulazam-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
