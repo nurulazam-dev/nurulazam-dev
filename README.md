@@ -59,10 +59,9 @@ As a MERN stack web developer, I specialize in building dynamic and responsive w
 ![](https://github-profile-trophy.vercel.app/?username=nurulazam-dev&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulazam-dev&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=nurulazam-dev&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulazam-dev&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nurulazam-dev&theme=default_repocard&hide_border=false)
 
 <!-- ## 🔝 Top Contributed Repo -->
