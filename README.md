@@ -69,7 +69,7 @@ As a MERN stack web developer, I specialize in building dynamic and responsive w
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=nurulazam-dev&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 ---
 <h3 align="center">Statistics</h3>
-<div align="center">
+<div align="center" gap="50px">
 <a href="https://github.com/nurulazam-dev">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurulazam-dev&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nurulazam-dev&theme=2077" height="180em" />
@@ -77,6 +77,7 @@ As a MERN stack web developer, I specialize in building dynamic and responsive w
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurulazam-dev&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurulazam-dev&theme=2077" height="180em" />
 </div>
+  
 ---
 
 #### 📧 For Business Inquiries: ✅ nurulazam.dev@gmail.com
