@@ -1,14 +1,19 @@
+
 ![Front End Developer](https://i.ibb.co/p1dd1dJ/Linked-In-banner.jpg)
 
 ### Hi there 👋,
 
 # I'm Mohammad Nurul Azam.
 
-## Full Stack MERN Web Developer
+## Full Stack Developer
 
 ## 💫 About Me:
 
-As a MERN stack web developer, I specialize in building dynamic and responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) technology stack. With front-end and back-end development expertise, I craft efficient and user-friendly interfaces while ensuring seamless data flow and robust server-side functionality.
+I’m 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with hands-on experience delivering 30+ client projects.
+ 
+I build scalable, high-performance web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). My work focuses on creating clean, responsive user interfaces backed by reliable and efficient server-side systems. I care about writing maintainable code, optimizing performance, and delivering real business value through technology.
+ 
+I’m comfortable working across the full development lifecycle, from planning and architecture to deployment and optimization. I continuously improve my skills by learning modern tools and best practices. Client satisfaction, clear communication, and delivering on time are central to how I work.
 
 ## 🌐 Socials:
 
