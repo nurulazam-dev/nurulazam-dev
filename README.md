@@ -1,5 +1,5 @@
 
-![Front End Developer](https://res.cloudinary.com/mnaofficialbd/image/upload/v1777008469/nurulazam-dev/nurulazam-linkedIn-banner_dm9bez.jpg)
+![Front End Developer](https://res.cloudinary.com/mnaofficialbd/image/upload/v1777020640/nurulazam-dev/nurulazam-linkedIn-banner_dm9bez.png)
 
 ### Hi there,
 
