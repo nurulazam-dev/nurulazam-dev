@@ -1,19 +1,24 @@
 
 ![Front End Developer](https://res.cloudinary.com/mnaofficialbd/image/upload/v1777008469/nurulazam-dev/nurulazam-linkedIn-banner_dm9bez.jpg)
 
-### Hi there 👋,
+### Hi there,
 
 # I'm Mohammad Nurul Azam.
 
 ## Full Stack Developer
 
-## 💫 About Me:
+## About Me:
 
-I’m 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with hands-on experience delivering 30+ client projects.
- 
-I build scalable, high-performance web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). My work focuses on creating clean, responsive user interfaces backed by reliable and efficient server-side systems. I care about writing maintainable code, optimizing performance, and delivering real business value through technology.
- 
-I’m comfortable working across the full development lifecycle, from planning and architecture to deployment and optimization. I continuously improve my skills by learning modern tools and best practices. Client satisfaction, clear communication, and delivering on time are central to how I work.
+I'm 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a passionate 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Chattogram, Bangladesh, on a mission to build web experiences that are fast, clean, and genuinely useful.
+
+With hands-on experience across the full development lifecycle—from architecture to deployment. I specialize in crafting scalable, high-performance web applications using React.js, Next.js, and TypeScript on the frontend and Node.js, Express.js, PostgreSQL, and MongoDB on the backend.
+
+My work spans projects where clean UI, reliable APIs, and smart data modeling all have to work in harmony. I care deeply about writing maintainable code, optimizing performance, and turning complex requirements into simple, intuitive user experiences.
+
+My goal is to grow into a senior full-stack developer, working on products that make a real-world impact.
+
+If you're building something meaningful and need a developer who brings both technical depth and a collaborative mindset - let's connect!
+
 
 ## 🌐 Socials:
 
