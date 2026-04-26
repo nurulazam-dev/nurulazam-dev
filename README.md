@@ -13,8 +13,6 @@ I'm 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a pa
 
 With hands-on experience across the full development lifecycle—from architecture to deployment. I specialize in crafting scalable, high-performance web applications using React.js, Next.js, and TypeScript on the frontend and Node.js, Express.js, PostgreSQL, and MongoDB on the backend.
 
-My work spans projects where clean UI, reliable APIs, and smart data modeling all have to work in harmony. I care deeply about writing maintainable code, optimizing performance, and turning complex requirements into simple, intuitive user experiences.
-
 My goal is to grow into a senior full-stack developer, working on products that make a real-world impact.
 
 If you're building something meaningful and need a developer who brings both technical depth and a collaborative mindset - let's connect!
