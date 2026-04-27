@@ -19,6 +19,5 @@ I’m 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a 
 ![](https://github-contributor-stats.vercel.app/api?username=nurulazam-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=nurulazam-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
