@@ -7,8 +7,6 @@
 
 ## Full Stack Developer
 
-## About Me:
-
 I'm 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a passionate 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Chattogram, Bangladesh, on a mission to build web experiences that are fast, clean, and genuinely useful.
 
 With hands-on experience across the full development lifecycle—from architecture to deployment. I specialize in crafting scalable, high-performance web applications using React.js, Next.js, and TypeScript on the frontend and Node.js, Express.js, PostgreSQL, and MongoDB on the backend.
