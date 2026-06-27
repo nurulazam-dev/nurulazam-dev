@@ -1,4 +1,4 @@
-I’m 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 (𝐌𝐄𝐑𝐍) 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with hands-on experience delivering 30+ client projects.<br> <br>I build scalable, high-performance web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). My work focuses on creating clean, responsive user interfaces backed by reliable and efficient server-side systems. I care
+I’m 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐍𝐮𝐫𝐮𝐥 𝐀𝐳𝐚𝐦, a 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 (𝐌𝐄𝐑𝐍) 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with hands-on experience delivering 30+ client projects.<br> <br>I build scalable, high-performance web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). My work focuses on creating clean, responsive user interfaces backed by reliable and efficient server-side systems.
 
 
 ## 🌐 Socials:
