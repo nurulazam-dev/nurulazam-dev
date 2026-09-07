@@ -1,4 +1,4 @@
-I’m 𝐌𝐨
+I’m
 
 
 ## 🌐 Socials:
