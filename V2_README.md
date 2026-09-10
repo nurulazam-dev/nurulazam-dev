@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurulazam-dev&theme=onedark" alt="nurulazam-dev" /></a> </p>
 
 
-- 📫 How to reach me **nurulazam.dev@gmail.com**
+- 📫 How to reach me **nurulazam.dev@gmail
 - 👨‍💻 All of my projects are available at **https://nurulazam-dev.vercel.app**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1HWghg-rnqwnhAe2tLewTYE_LSVQCindb/view**
 
