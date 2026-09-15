@@ -5,7 +5,7 @@
 
 
 - All of my projects are available at **https://nurulazam-dev.vercel.app**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1HWghg-rnqwnhAe2tLewTYE_LSVQCindb/view**
+- Know about my experiences **https://drive.google.com/file/d/1HWghg-rnqwnhAe2tLewTYE_LSVQCindb/view**
 
 <div> 
 <a href="https://twitter.com/nurulazam-dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
