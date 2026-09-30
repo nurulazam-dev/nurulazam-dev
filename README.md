@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 ![Front End Developer](https://res.cloudinary.com/mnaofficialbd/image/upload/v1788231370/nurulazam-dev/nurulazam-web-dev-linkedIn-banner_r0hi4f.png)
 
 ### Hi there,
