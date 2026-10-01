@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulazam-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nurulazam-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-app</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img </p>
 
 
 <div> 
