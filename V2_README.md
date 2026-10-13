@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=nurulazam-dev&label=Profile alt="nurulazam-dev" /> 
+<img src="https://komarev.com/ghpvc/?username=nurulazam-dev&label=Profile /> 
 
 
 <div> 
