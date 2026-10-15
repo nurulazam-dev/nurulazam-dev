@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username" /> 
+<img src="https://komarev.com/ghpvc" /> 
 
 
 <div> 
